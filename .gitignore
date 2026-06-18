@@ -198,3 +198,4 @@ share/python-wheels/
 .vscode-test/
 .history/
 *.code-workspace
+pytorch-CycleGAN-and-pix2pix/
